@@ -1,0 +1,104 @@
+C:\Users\EknathBhoyar\Desktop\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Services\bin\Debug\SmartStore.Services.dll.config
+C:\Users\EknathBhoyar\Desktop\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Services\bin\Debug\SmartStore.Services.dll
+C:\Users\EknathBhoyar\Desktop\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Services\bin\Debug\SmartStore.Services.pdb
+C:\Users\EknathBhoyar\Desktop\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Services\bin\Debug\Autofac.dll
+C:\Users\EknathBhoyar\Desktop\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Services\bin\Debug\EntityFramework.dll
+C:\Users\EknathBhoyar\Desktop\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Services\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\EknathBhoyar\Desktop\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Services\bin\Debug\EPPlus.dll
+C:\Users\EknathBhoyar\Desktop\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Services\bin\Debug\Fasterflect.dll
+C:\Users\EknathBhoyar\Desktop\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Services\bin\Debug\ImageResizer.dll
+C:\Users\EknathBhoyar\Desktop\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Services\bin\Debug\ImageResizer.Plugins.PrettyGifs.dll
+C:\Users\EknathBhoyar\Desktop\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Services\bin\Debug\MaxMind.GeoIP.dll
+C:\Users\EknathBhoyar\Desktop\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Services\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\EknathBhoyar\Desktop\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Services\bin\Debug\Newtonsoft.Json.dll
+C:\Users\EknathBhoyar\Desktop\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Services\bin\Debug\NReco.PdfGenerator.dll
+C:\Users\EknathBhoyar\Desktop\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Services\bin\Debug\SmartStore.Core.dll
+C:\Users\EknathBhoyar\Desktop\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Services\bin\Debug\SmartStore.Data.dll
+C:\Users\EknathBhoyar\Desktop\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Services\bin\Debug\System.Linq.Dynamic.dll
+C:\Users\EknathBhoyar\Desktop\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Services\bin\Debug\System.Web.Helpers.dll
+C:\Users\EknathBhoyar\Desktop\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Services\bin\Debug\System.Web.Mvc.dll
+C:\Users\EknathBhoyar\Desktop\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Services\bin\Debug\System.Web.Razor.dll
+C:\Users\EknathBhoyar\Desktop\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Services\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\EknathBhoyar\Desktop\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Services\bin\Debug\System.Web.WebPages.dll
+C:\Users\EknathBhoyar\Desktop\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Services\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\EknathBhoyar\Desktop\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Services\bin\Debug\UAParser.dll
+C:\Users\EknathBhoyar\Desktop\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Services\bin\Debug\Autofac.Integration.Mvc.dll
+C:\Users\EknathBhoyar\Desktop\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Services\bin\Debug\NuGet.Core.dll
+C:\Users\EknathBhoyar\Desktop\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Services\bin\Debug\Microsoft.Web.XmlTransform.dll
+C:\Users\EknathBhoyar\Desktop\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Services\bin\Debug\SmartStore.Core.pdb
+C:\Users\EknathBhoyar\Desktop\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Services\bin\Debug\SmartStore.Data.pdb
+C:\Users\EknathBhoyar\Desktop\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Services\bin\Debug\Autofac.xml
+C:\Users\EknathBhoyar\Desktop\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Services\bin\Debug\EntityFramework.xml
+C:\Users\EknathBhoyar\Desktop\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Services\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\EknathBhoyar\Desktop\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Services\bin\Debug\EPPlus.xml
+C:\Users\EknathBhoyar\Desktop\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Services\bin\Debug\Fasterflect.xml
+C:\Users\EknathBhoyar\Desktop\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Services\bin\Debug\ImageResizer.xml
+C:\Users\EknathBhoyar\Desktop\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Services\bin\Debug\ImageResizer.Plugins.PrettyGifs.xml
+C:\Users\EknathBhoyar\Desktop\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Services\bin\Debug\Newtonsoft.Json.xml
+C:\Users\EknathBhoyar\Desktop\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Services\bin\Debug\NReco.PdfGenerator.xml
+C:\Users\EknathBhoyar\Desktop\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Services\bin\Debug\System.Web.Helpers.xml
+C:\Users\EknathBhoyar\Desktop\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Services\bin\Debug\System.Web.Mvc.xml
+C:\Users\EknathBhoyar\Desktop\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Services\bin\Debug\System.Web.Razor.xml
+C:\Users\EknathBhoyar\Desktop\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Services\bin\Debug\System.Web.WebPages.xml
+C:\Users\EknathBhoyar\Desktop\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Services\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\EknathBhoyar\Desktop\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Services\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\EknathBhoyar\Desktop\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Services\bin\Debug\Autofac.Integration.Mvc.xml
+C:\Users\EknathBhoyar\Desktop\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Services\obj\Debug\SmartStore.Services.csprojResolveAssemblyReference.cache
+C:\Users\EknathBhoyar\Desktop\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Services\obj\Debug\SmartStore.Services.dll
+C:\Users\EknathBhoyar\Desktop\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Services\obj\Debug\SmartStore.Services.pdb
+D:\Softwares And Tools\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Services\bin\Debug\SmartStore.Services.dll.config
+D:\Softwares And Tools\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Services\bin\Debug\SmartStore.Services.dll
+D:\Softwares And Tools\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Services\bin\Debug\SmartStore.Services.pdb
+D:\Softwares And Tools\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Services\bin\Debug\Autofac.dll
+D:\Softwares And Tools\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Services\bin\Debug\EntityFramework.dll
+D:\Softwares And Tools\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Services\bin\Debug\EntityFramework.SqlServer.dll
+D:\Softwares And Tools\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Services\bin\Debug\EPPlus.dll
+D:\Softwares And Tools\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Services\bin\Debug\Fasterflect.dll
+D:\Softwares And Tools\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Services\bin\Debug\ImageResizer.dll
+D:\Softwares And Tools\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Services\bin\Debug\ImageResizer.Plugins.PrettyGifs.dll
+D:\Softwares And Tools\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Services\bin\Debug\MaxMind.GeoIP.dll
+D:\Softwares And Tools\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Services\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Softwares And Tools\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Services\bin\Debug\Newtonsoft.Json.dll
+D:\Softwares And Tools\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Services\bin\Debug\NReco.PdfGenerator.dll
+D:\Softwares And Tools\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Services\bin\Debug\SmartStore.Core.dll
+D:\Softwares And Tools\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Services\bin\Debug\SmartStore.Data.dll
+D:\Softwares And Tools\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Services\bin\Debug\System.Linq.Dynamic.dll
+D:\Softwares And Tools\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Services\bin\Debug\System.Web.Helpers.dll
+D:\Softwares And Tools\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Services\bin\Debug\System.Web.Mvc.dll
+D:\Softwares And Tools\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Services\bin\Debug\System.Web.Razor.dll
+D:\Softwares And Tools\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Services\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Softwares And Tools\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Services\bin\Debug\System.Web.WebPages.dll
+D:\Softwares And Tools\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Services\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Softwares And Tools\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Services\bin\Debug\UAParser.dll
+D:\Softwares And Tools\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Services\bin\Debug\NuGet.Core.dll
+D:\Softwares And Tools\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Services\bin\Debug\Autofac.Integration.Mvc.dll
+D:\Softwares And Tools\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Services\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+D:\Softwares And Tools\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Services\bin\Debug\Microsoft.SqlServer.Smo.dll
+D:\Softwares And Tools\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Services\bin\Debug\Microsoft.Web.XmlTransform.dll
+D:\Softwares And Tools\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Services\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+D:\Softwares And Tools\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Services\bin\Debug\SmartStore.Core.pdb
+D:\Softwares And Tools\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Services\bin\Debug\SmartStore.Data.pdb
+D:\Softwares And Tools\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Services\bin\Debug\Autofac.xml
+D:\Softwares And Tools\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Services\bin\Debug\EntityFramework.xml
+D:\Softwares And Tools\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Services\bin\Debug\EntityFramework.SqlServer.xml
+D:\Softwares And Tools\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Services\bin\Debug\EPPlus.xml
+D:\Softwares And Tools\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Services\bin\Debug\Fasterflect.xml
+D:\Softwares And Tools\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Services\bin\Debug\ImageResizer.xml
+D:\Softwares And Tools\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Services\bin\Debug\ImageResizer.Plugins.PrettyGifs.xml
+D:\Softwares And Tools\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Services\bin\Debug\Newtonsoft.Json.xml
+D:\Softwares And Tools\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Services\bin\Debug\NReco.PdfGenerator.xml
+D:\Softwares And Tools\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Services\bin\Debug\System.Web.Helpers.xml
+D:\Softwares And Tools\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Services\bin\Debug\System.Web.Mvc.xml
+D:\Softwares And Tools\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Services\bin\Debug\System.Web.Razor.xml
+D:\Softwares And Tools\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Services\bin\Debug\System.Web.WebPages.xml
+D:\Softwares And Tools\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Services\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Softwares And Tools\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Services\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Softwares And Tools\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Services\bin\Debug\Autofac.Integration.Mvc.xml
+D:\Softwares And Tools\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Services\bin\Debug\de\System.Web.Helpers.resources.dll
+D:\Softwares And Tools\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Services\bin\Debug\de\System.Web.Razor.resources.dll
+D:\Softwares And Tools\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Services\bin\Debug\de\System.Web.WebPages.resources.dll
+D:\Softwares And Tools\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Services\bin\Debug\de\System.Web.WebPages.Deployment.resources.dll
+D:\Softwares And Tools\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Services\bin\Debug\de\System.Web.WebPages.Razor.resources.dll
+D:\Softwares And Tools\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Services\obj\Debug\SmartStore.Services.csprojResolveAssemblyReference.cache
+D:\Softwares And Tools\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Services\obj\Debug\SmartStore.Services.dll
+D:\Softwares And Tools\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Services\obj\Debug\SmartStore.Services.pdb

@@ -1,0 +1,165 @@
+C:\Users\EknathBhoyar\Desktop\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Data\bin\Debug\SmartStore.Data.dll.config
+C:\Users\EknathBhoyar\Desktop\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Data\bin\Debug\SmartStore.Data.dll
+C:\Users\EknathBhoyar\Desktop\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Data\bin\Debug\SmartStore.Data.pdb
+C:\Users\EknathBhoyar\Desktop\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Data\bin\Debug\Autofac.dll
+C:\Users\EknathBhoyar\Desktop\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Data\bin\Debug\EntityFramework.dll
+C:\Users\EknathBhoyar\Desktop\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\EknathBhoyar\Desktop\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Data\bin\Debug\EntityFramework.SqlServerCompact.dll
+C:\Users\EknathBhoyar\Desktop\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Data\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\EknathBhoyar\Desktop\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Data\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+C:\Users\EknathBhoyar\Desktop\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Data\bin\Debug\Microsoft.SqlServer.Smo.dll
+C:\Users\EknathBhoyar\Desktop\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Data\bin\Debug\Newtonsoft.Json.dll
+C:\Users\EknathBhoyar\Desktop\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Data\bin\Debug\SmartStore.Core.dll
+C:\Users\EknathBhoyar\Desktop\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Data\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\EknathBhoyar\Desktop\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Data\bin\Debug\Autofac.Integration.Mvc.dll
+C:\Users\EknathBhoyar\Desktop\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Data\bin\Debug\NuGet.Core.dll
+C:\Users\EknathBhoyar\Desktop\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Data\bin\Debug\System.Web.Mvc.dll
+C:\Users\EknathBhoyar\Desktop\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Data\bin\Debug\System.Linq.Dynamic.dll
+C:\Users\EknathBhoyar\Desktop\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Data\bin\Debug\Fasterflect.dll
+C:\Users\EknathBhoyar\Desktop\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Data\bin\Debug\Microsoft.Web.XmlTransform.dll
+C:\Users\EknathBhoyar\Desktop\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Data\bin\Debug\System.Web.Razor.dll
+C:\Users\EknathBhoyar\Desktop\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Data\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\EknathBhoyar\Desktop\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Data\bin\Debug\System.Web.WebPages.dll
+C:\Users\EknathBhoyar\Desktop\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Data\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\EknathBhoyar\Desktop\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Data\bin\Debug\SmartStore.Core.pdb
+C:\Users\EknathBhoyar\Desktop\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Data\bin\Debug\Autofac.xml
+C:\Users\EknathBhoyar\Desktop\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Data\bin\Debug\EntityFramework.xml
+C:\Users\EknathBhoyar\Desktop\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\EknathBhoyar\Desktop\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Data\bin\Debug\EntityFramework.SqlServerCompact.xml
+C:\Users\EknathBhoyar\Desktop\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Data\bin\Debug\Newtonsoft.Json.xml
+C:\Users\EknathBhoyar\Desktop\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Data\bin\Debug\Autofac.Integration.Mvc.xml
+C:\Users\EknathBhoyar\Desktop\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Data\bin\Debug\System.Web.Mvc.xml
+C:\Users\EknathBhoyar\Desktop\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Data\bin\Debug\Fasterflect.xml
+C:\Users\EknathBhoyar\Desktop\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Data\bin\Debug\System.Web.Razor.xml
+C:\Users\EknathBhoyar\Desktop\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Data\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\EknathBhoyar\Desktop\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Data\bin\Debug\System.Web.WebPages.xml
+C:\Users\EknathBhoyar\Desktop\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Data\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\EknathBhoyar\Desktop\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Data\obj\Debug\SmartStore.Data.csprojResolveAssemblyReference.cache
+C:\Users\EknathBhoyar\Desktop\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Data\obj\Debug\SmartStore.Data.Migrations.Initial.resources
+C:\Users\EknathBhoyar\Desktop\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Data\obj\Debug\SmartStore.Data.Migrations.AclPerf.resources
+C:\Users\EknathBhoyar\Desktop\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Data\obj\Debug\SmartStore.Data.Migrations.CurrencyMorePrecision.resources
+C:\Users\EknathBhoyar\Desktop\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Data\obj\Debug\SmartStore.Data.Migrations.AboutPage.resources
+C:\Users\EknathBhoyar\Desktop\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Data\obj\Debug\SmartStore.Data.Migrations.ImportExcel.resources
+C:\Users\EknathBhoyar\Desktop\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Data\obj\Debug\SmartStore.Data.Migrations.Packaging.resources
+C:\Users\EknathBhoyar\Desktop\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Data\obj\Debug\SmartStore.Data.Migrations.AttributeCombinationPrice.resources
+C:\Users\EknathBhoyar\Desktop\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Data\obj\Debug\SmartStore.Data.Migrations.BundleYouSaveLabelFix.resources
+C:\Users\EknathBhoyar\Desktop\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Data\obj\Debug\SmartStore.Data.Migrations.LessValidation.resources
+C:\Users\EknathBhoyar\Desktop\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Data\obj\Debug\SmartStore.Data.Migrations.FixMaxLength.resources
+C:\Users\EknathBhoyar\Desktop\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Data\obj\Debug\SmartStore.Data.Migrations.ProductBulkEditInfo.resources
+C:\Users\EknathBhoyar\Desktop\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Data\obj\Debug\SmartStore.Data.Migrations.FixRes1.resources
+C:\Users\EknathBhoyar\Desktop\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Data\obj\Debug\SmartStore.Data.Migrations.TaskUpdate.resources
+C:\Users\EknathBhoyar\Desktop\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Data\obj\Debug\SmartStore.Data.Migrations.ContentDeliveryNetwork.resources
+C:\Users\EknathBhoyar\Desktop\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Data\obj\Debug\SmartStore.Data.Migrations.Providers.resources
+C:\Users\EknathBhoyar\Desktop\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Data\obj\Debug\SmartStore.Data.Migrations.BetterReturnRequest.resources
+C:\Users\EknathBhoyar\Desktop\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Data\obj\Debug\SmartStore.Data.Migrations.MultistorePoll.resources
+C:\Users\EknathBhoyar\Desktop\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Data\obj\Debug\SmartStore.Data.Migrations.CheckoutCommmentBox.resources
+C:\Users\EknathBhoyar\Desktop\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Data\obj\Debug\SmartStore.Data.Migrations.CustomerNameFormat.resources
+C:\Users\EknathBhoyar\Desktop\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Data\obj\Debug\SmartStore.Data.Migrations.NewRes.resources
+C:\Users\EknathBhoyar\Desktop\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Data\obj\Debug\SmartStore.Data.Migrations.EuEsd.resources
+C:\Users\EknathBhoyar\Desktop\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Data\obj\Debug\SmartStore.Data.Migrations.V21Final.resources
+C:\Users\EknathBhoyar\Desktop\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Data\obj\Debug\SmartStore.Data.Migrations.V211.resources
+C:\Users\EknathBhoyar\Desktop\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Data\obj\Debug\SmartStore.Data.Migrations.WidgetWrapContent.resources
+C:\Users\EknathBhoyar\Desktop\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Data\obj\Debug\SmartStore.Data.Migrations.DefaultViewModeForCategories.resources
+C:\Users\EknathBhoyar\Desktop\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Data\obj\Debug\SmartStore.Data.Migrations.QtyUnitsAndOrderItemTaxRate.resources
+C:\Users\EknathBhoyar\Desktop\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Data\obj\Debug\SmartStore.Data.Migrations.NewIndexesV22.resources
+C:\Users\EknathBhoyar\Desktop\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Data\obj\Debug\SmartStore.Data.Migrations.LocalizedPropertyIndex.resources
+C:\Users\EknathBhoyar\Desktop\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Data\obj\Debug\SmartStore.Data.Migrations.V22Res.resources
+C:\Users\EknathBhoyar\Desktop\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Data\obj\Debug\SmartStore.Data.Migrations.PdfConverterUser.resources
+C:\Users\EknathBhoyar\Desktop\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Data\obj\Debug\SmartStore.Data.Migrations.Licensing.resources
+C:\Users\EknathBhoyar\Desktop\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Data\obj\Debug\SmartStore.Data.Migrations.NewCategoryProperties.resources
+C:\Users\EknathBhoyar\Desktop\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Data\obj\Debug\SmartStore.Data.Migrations.V22Final.resources
+C:\Users\EknathBhoyar\Desktop\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Data\obj\Debug\SmartStore.Data.Migrations.AutoUpdateRes.resources
+C:\Users\EknathBhoyar\Desktop\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Data\obj\Debug\SmartStore.Data.Migrations.TempFileCleanupTask.resources
+C:\Users\EknathBhoyar\Desktop\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Data\obj\Debug\SmartStore.Data.Migrations.SendEmailsManually.resources
+C:\Users\EknathBhoyar\Desktop\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Data\obj\Debug\SmartStore.Data.Migrations.PdfConverterRoleFix.resources
+C:\Users\EknathBhoyar\Desktop\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Data\obj\Debug\SmartStore.Data.Migrations.CountryMultistore.resources
+C:\Users\EknathBhoyar\Desktop\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Data\obj\Debug\SmartStore.Data.Migrations.V222.resources
+C:\Users\EknathBhoyar\Desktop\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Data\obj\Debug\SmartStore.Data.Migrations.AclRecordCustomerRole.resources
+C:\Users\EknathBhoyar\Desktop\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Data\obj\Debug\SmartStore.Data.csproj.GenerateResource.Cache
+C:\Users\EknathBhoyar\Desktop\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Data\obj\Debug\SmartStore.Data.dll
+C:\Users\EknathBhoyar\Desktop\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Data\obj\Debug\SmartStore.Data.pdb
+D:\Softwares And Tools\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Data\bin\Debug\SmartStore.Data.dll.config
+D:\Softwares And Tools\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Data\bin\Debug\SmartStore.Data.dll
+D:\Softwares And Tools\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Data\bin\Debug\SmartStore.Data.pdb
+D:\Softwares And Tools\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Data\bin\Debug\Autofac.dll
+D:\Softwares And Tools\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Data\bin\Debug\EntityFramework.dll
+D:\Softwares And Tools\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\Softwares And Tools\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Data\bin\Debug\EntityFramework.SqlServerCompact.dll
+D:\Softwares And Tools\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Data\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+D:\Softwares And Tools\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Data\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+D:\Softwares And Tools\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Data\bin\Debug\Microsoft.SqlServer.Smo.dll
+D:\Softwares And Tools\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Data\bin\Debug\Newtonsoft.Json.dll
+D:\Softwares And Tools\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Data\bin\Debug\SmartStore.Core.dll
+D:\Softwares And Tools\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Data\bin\Debug\System.Data.SqlServerCe.dll
+D:\Softwares And Tools\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Data\bin\Debug\NuGet.Core.dll
+D:\Softwares And Tools\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Data\bin\Debug\System.Web.Mvc.dll
+D:\Softwares And Tools\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Data\bin\Debug\Autofac.Integration.Mvc.dll
+D:\Softwares And Tools\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Data\bin\Debug\Fasterflect.dll
+D:\Softwares And Tools\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Data\bin\Debug\System.Linq.Dynamic.dll
+D:\Softwares And Tools\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Data\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Softwares And Tools\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Data\bin\Debug\Microsoft.Web.XmlTransform.dll
+D:\Softwares And Tools\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Data\bin\Debug\System.Web.Razor.dll
+D:\Softwares And Tools\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Data\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Softwares And Tools\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Data\bin\Debug\System.Web.WebPages.dll
+D:\Softwares And Tools\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Data\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Softwares And Tools\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Data\bin\Debug\SmartStore.Core.pdb
+D:\Softwares And Tools\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Data\bin\Debug\Autofac.xml
+D:\Softwares And Tools\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Data\bin\Debug\EntityFramework.xml
+D:\Softwares And Tools\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\Softwares And Tools\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Data\bin\Debug\EntityFramework.SqlServerCompact.xml
+D:\Softwares And Tools\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Data\bin\Debug\Newtonsoft.Json.xml
+D:\Softwares And Tools\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Data\bin\Debug\System.Web.Mvc.xml
+D:\Softwares And Tools\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Data\bin\Debug\Autofac.Integration.Mvc.xml
+D:\Softwares And Tools\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Data\bin\Debug\Fasterflect.xml
+D:\Softwares And Tools\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Data\bin\Debug\System.Web.Razor.xml
+D:\Softwares And Tools\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Data\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Softwares And Tools\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Data\bin\Debug\System.Web.WebPages.xml
+D:\Softwares And Tools\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Data\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Softwares And Tools\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Data\bin\Debug\de\System.Web.Razor.resources.dll
+D:\Softwares And Tools\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Data\bin\Debug\de\System.Web.WebPages.Razor.resources.dll
+D:\Softwares And Tools\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Data\bin\Debug\de\System.Web.WebPages.resources.dll
+D:\Softwares And Tools\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Data\bin\Debug\de\System.Web.WebPages.Deployment.resources.dll
+D:\Softwares And Tools\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Data\obj\Debug\SmartStore.Data.csprojResolveAssemblyReference.cache
+D:\Softwares And Tools\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Data\obj\Debug\SmartStore.Data.Migrations.Initial.resources
+D:\Softwares And Tools\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Data\obj\Debug\SmartStore.Data.Migrations.AclPerf.resources
+D:\Softwares And Tools\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Data\obj\Debug\SmartStore.Data.Migrations.CurrencyMorePrecision.resources
+D:\Softwares And Tools\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Data\obj\Debug\SmartStore.Data.Migrations.AboutPage.resources
+D:\Softwares And Tools\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Data\obj\Debug\SmartStore.Data.Migrations.ImportExcel.resources
+D:\Softwares And Tools\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Data\obj\Debug\SmartStore.Data.Migrations.Packaging.resources
+D:\Softwares And Tools\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Data\obj\Debug\SmartStore.Data.Migrations.AttributeCombinationPrice.resources
+D:\Softwares And Tools\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Data\obj\Debug\SmartStore.Data.Migrations.BundleYouSaveLabelFix.resources
+D:\Softwares And Tools\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Data\obj\Debug\SmartStore.Data.Migrations.LessValidation.resources
+D:\Softwares And Tools\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Data\obj\Debug\SmartStore.Data.Migrations.FixMaxLength.resources
+D:\Softwares And Tools\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Data\obj\Debug\SmartStore.Data.Migrations.ProductBulkEditInfo.resources
+D:\Softwares And Tools\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Data\obj\Debug\SmartStore.Data.Migrations.FixRes1.resources
+D:\Softwares And Tools\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Data\obj\Debug\SmartStore.Data.Migrations.TaskUpdate.resources
+D:\Softwares And Tools\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Data\obj\Debug\SmartStore.Data.Migrations.ContentDeliveryNetwork.resources
+D:\Softwares And Tools\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Data\obj\Debug\SmartStore.Data.Migrations.Providers.resources
+D:\Softwares And Tools\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Data\obj\Debug\SmartStore.Data.Migrations.BetterReturnRequest.resources
+D:\Softwares And Tools\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Data\obj\Debug\SmartStore.Data.Migrations.MultistorePoll.resources
+D:\Softwares And Tools\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Data\obj\Debug\SmartStore.Data.Migrations.CheckoutCommmentBox.resources
+D:\Softwares And Tools\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Data\obj\Debug\SmartStore.Data.Migrations.CustomerNameFormat.resources
+D:\Softwares And Tools\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Data\obj\Debug\SmartStore.Data.Migrations.NewRes.resources
+D:\Softwares And Tools\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Data\obj\Debug\SmartStore.Data.Migrations.EuEsd.resources
+D:\Softwares And Tools\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Data\obj\Debug\SmartStore.Data.Migrations.V21Final.resources
+D:\Softwares And Tools\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Data\obj\Debug\SmartStore.Data.Migrations.V211.resources
+D:\Softwares And Tools\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Data\obj\Debug\SmartStore.Data.Migrations.WidgetWrapContent.resources
+D:\Softwares And Tools\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Data\obj\Debug\SmartStore.Data.Migrations.DefaultViewModeForCategories.resources
+D:\Softwares And Tools\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Data\obj\Debug\SmartStore.Data.Migrations.QtyUnitsAndOrderItemTaxRate.resources
+D:\Softwares And Tools\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Data\obj\Debug\SmartStore.Data.Migrations.NewIndexesV22.resources
+D:\Softwares And Tools\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Data\obj\Debug\SmartStore.Data.Migrations.LocalizedPropertyIndex.resources
+D:\Softwares And Tools\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Data\obj\Debug\SmartStore.Data.Migrations.V22Res.resources
+D:\Softwares And Tools\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Data\obj\Debug\SmartStore.Data.Migrations.PdfConverterUser.resources
+D:\Softwares And Tools\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Data\obj\Debug\SmartStore.Data.Migrations.Licensing.resources
+D:\Softwares And Tools\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Data\obj\Debug\SmartStore.Data.Migrations.NewCategoryProperties.resources
+D:\Softwares And Tools\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Data\obj\Debug\SmartStore.Data.Migrations.V22Final.resources
+D:\Softwares And Tools\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Data\obj\Debug\SmartStore.Data.Migrations.AutoUpdateRes.resources
+D:\Softwares And Tools\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Data\obj\Debug\SmartStore.Data.Migrations.TempFileCleanupTask.resources
+D:\Softwares And Tools\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Data\obj\Debug\SmartStore.Data.Migrations.SendEmailsManually.resources
+D:\Softwares And Tools\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Data\obj\Debug\SmartStore.Data.Migrations.PdfConverterRoleFix.resources
+D:\Softwares And Tools\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Data\obj\Debug\SmartStore.Data.Migrations.CountryMultistore.resources
+D:\Softwares And Tools\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Data\obj\Debug\SmartStore.Data.Migrations.V222.resources
+D:\Softwares And Tools\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Data\obj\Debug\SmartStore.Data.Migrations.AclRecordCustomerRole.resources
+D:\Softwares And Tools\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Data\obj\Debug\SmartStore.Data.csproj.GenerateResource.Cache
+D:\Softwares And Tools\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Data\obj\Debug\SmartStore.Data.dll
+D:\Softwares And Tools\E-Commerce Open Source\SmartStoreNET-2.2.2.x\SmartStoreNET-2.2.2.x\src\Libraries\SmartStore.Data\obj\Debug\SmartStore.Data.pdb
